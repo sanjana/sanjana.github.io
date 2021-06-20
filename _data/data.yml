@@ -1,0 +1,176 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Anjana Sivanandan
+    tagline: Full Stack Software Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    contatForm: "https://forms.gle/VFanPznYap97E63F6"
+
+    # Sidebar links
+    email: hello@anjanaonline.com
+    facebook: Anjeyster
+    phone: "+6586540650"
+    website: anjanaonline.com #do not add http://
+    linkedin: AnjanaSi
+    xing: Sivanandan_Anjana
+    github: SAnjana
+    telegram: anjeyster # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@anjetnet'
+    stack-overflow: 5002226/anjana # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Sinhala
+        level: Native
+
+    interests:
+      - item: AI and Machine Learning
+        link:
+
+      - item: Data Analytics
+        link:
+
+      - item: Web and Mobile App Development
+        link:
+
+      - item: SEO
+        link:
+
+      - item: IoT Application Development
+        link:
+
+      - item: Information Security
+        link:
+
+      - item: Software Design
+        link:
+
+career-profile:
+    title: Profile
+    summary: |
+      A result-oriented full-stack software engineer with 5+ years of experience developing 
+      enterprise-grade systems, Microservices, and REST APIs in Java, Spring Boot, Python, 
+      and JavaScript. Committer of an Open-Source project with 100+ team members.
+education:
+    # - degree: MSc in Big Data Analytics (Reading)
+    #   university: Robert Gordon University, Aberdeen, Scotland
+    #   time: 2021 
+    #   details: |
+    #     Focusing industrial research.
+    #       - Big Data Analytics
+    #       - AI & Machine Learning
+    - degree: BSc (Hons.) in Computer Science
+      university: University of Colombo School of Computing
+      time: 2016 - 2020
+      details: |
+        Research focused and Software Engineering
+          - Programming & Mathematics
+          - Data Structures & Algorithms
+experiences:
+    - role: Software Engineer
+      time: March 2020 - Present
+      company: WSO2 Inc., Colombo, Sri Lanka
+      details: |
+        Involved in engineering the Open Source Cloud Native Programming Language - Ballerina.
+          - Compiler Enginnering
+          - Compiler Design
+    - role: Consulting Developer
+      time: October 2018 - September 2019
+      company: AYRA Group PTY LTD., Colombo, Sri Lanka
+      details: |
+        Developed a module in a analytics processing system
+          - Java: Maven and Jetty Embedded Servlets
+          - Multiple SQL connector handling
+          - PHP 7 CodeIgniter
+          - Data Security & Encryption
+    - role: Research Intern
+      time: August 2018 - February 2019
+      company: University of Colombo School of Computing & Outstanding Song Creators Association
+      details: |
+        Optimized previous research about monitoring FM radio channels to 
+        automate the process of music royalty fee collection, to operate 
+        in a production environment.
+          - PHP 7 Laravel 6 Framework & Python 3
+          - HTML 5, MDBootstrap, jQuery
+          - Amazon Web Services & Google Cloud Platform
+          - Shell Scripting & Linux System Administration
+          - Java: Servlets, Maven, and Tomcat.
+    - role: Trainee Software Developer
+      time: January 2015 - December 2015
+      company: Sydpro (pvt) Ltd., Colombo, Sri Lanka
+      details: |
+        In-house software development and testing
+          - C# .NET MVC Framework.
+          - ASP .NET
+          - HTML 5, MDBootstrap, Javascript & jQuery
+projects:
+    title: Projects
+    intro: >
+      5+ of experience in Java, Spring Boot, Spring Cloud, Python, PHP Laravel, and JavaScript.
+    assignments:
+      - title: A Research on Analysing the popularity of Sinhala Songs.
+        link: 
+        tagline: "Achieved a 71% accuracy in a hit-song prediction model using XGBoost machine learning algorithm in Python, MySQL, and data collection with web scraping."
+
+      - title: Dimento - An online 3d modeling marketplace
+        link: 
+        tagline: "Targeted 60,000+ freelance 3D model designers by introducing a web-based 3D model marketplace on AWS EC2, leading the development using PHP Laravel, MySQL, JavaScript, HTML, CSS, and Three JS"
+
+      - title: Mangomark - An online Knowledge social network
+        link: 
+        tagline: "Lead the development of this online crowdsourced knowledge and Experience sharing platform."
+
+      - title: ImSafe - a panic button app
+        link: 
+        tagline: "Was the backend developer of this Android app which used to act as a panic button in an emergency."
+
+      - title: MediCare - Medical Center Management System
+        link: 
+        tagline: "Lead the team and contibuted in developing an online medical center management system with a cross-platform mobile app for patients to make appointments."
+
+publications:
+    title: Publications
+    intro: |
+      
+    papers:
+      - title: Collaborative Lending With Open Banking and Smart Contracts
+        link: "https://fb.watch/6eN6jH4C6A/"
+        authors: S. Anjana
+        conference: InnovBank 2020 - International Symposium on Innovative Banking
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Java
+        level: 100%
+
+      - name: Spring Boot
+        level: 100%
+
+      - name: Spring Cloud
+        level: 100%
+
+      - name: Python
+        level: 100%
+
+      - name: PHP Laravel Framework
+        level: 100%
+
+      - name: JavaScript
+        level: 100%
+
+footer: 
+    # Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
